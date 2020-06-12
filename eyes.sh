@@ -56,7 +56,8 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 clear
-cowsay -f eyes|lolcat
+cowsay -f eyes "WARNING"|lolcat
+figlet -f slant "FAJAR CYBER"|lolcat
 echo "•×•×•×•×•×•×•×•×•×•×•×•×•×•÷•×•÷•÷•÷•×•×•"|lolcat
 echo "Author : FajarCyber"|lolcat
 echo "Kontak : 08817805411"|lolcat
